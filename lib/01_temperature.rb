@@ -1,10 +1,9 @@
-  
-def temperature_conversion
-    
+   
 
-    def ftoc(#number)
-        "temperature #{number}!" 
+    def ftoc(temp)
+       return (temp.to_f)
+    end
+    def ctoc(temp)
+        return (temp.to_f)
     end
 
-
-end
