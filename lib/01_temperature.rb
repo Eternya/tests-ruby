@@ -1,9 +1,9 @@
    
 
-    def ftoc(temp.to_f - 32 ) × 5/9
-       
+    def ftoc(temp)
+       return ftoc(temp.to_f - 32 ) × 5/9
     end
-    def ctoc(temp × 9/5) + 32
-       
+    def ctoc(temp)
+       return ctoc(temp × 9/5) + 32
     end
 
