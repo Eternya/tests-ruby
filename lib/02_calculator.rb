@@ -1,26 +1,26 @@
-def add(0, 0)
-    0 + 0
+def add(a, b)
+    a + b
 end
   
 
-def add(2, 2)
-    2 + 2
+def add(a, b)
+    a + b
   end
   
 
-  def add(2, 6)
-    2 + 6
+  def add(a, b)
+    a + b
   end
   
-  def subtract(10,4)
-    10 - 4
+  def subtract(a,b)
+   a - b
   end
-  def sum([])
-    
+  def array
+    array.sum
   end
 
-  def sum([7])
-    
+  def array 
+    array.sum
   end
   def sum([7,11])
     
@@ -30,8 +30,8 @@ def add(2, 2)
     
   end
   
-  def  multiply(3, 4)
-    3*4
+  def  multiply(a, b)
+    a*b
   end
   
  
