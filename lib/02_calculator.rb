@@ -19,9 +19,6 @@ def add(a, b)
     array.sum
   end
 
-  def array 
-    array.sum
-
   def  multiply(a, b)
     a*b
   end
